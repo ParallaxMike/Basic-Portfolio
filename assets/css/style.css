@@ -67,6 +67,7 @@ a.focus{
 .image{
     
     margin-right: 80px;
+    float: left;
 }
 
 #photo1{
